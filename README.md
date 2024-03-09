@@ -1,4 +1,4 @@
-# Hello, I'm Bolutife, Specialized in SOC and NOC Analyst. Currently gaining experiencce in the I.T industry. 
+# Hello, I'm Bolutife, Specialized in SOC and NOC Analyst. Currently gaining experience in the I.T industry. 
 <a href="https://www.linkedin.com/in/tife-alli-66090b185/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Basic Introduction 
