@@ -9,7 +9,7 @@
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I've worked on numberous projects such as building attack machines and constructing home labs. 
 
-## Cyber Security Skills
+## Technicial Skills
 
 | Skill                                         | Basic Projects & Labs         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
