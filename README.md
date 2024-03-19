@@ -13,36 +13,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Basic Projects & Labs         |
 |-----------------------------------------------|----------------------------|
-| Setting up a Kali Linux Machine (UTM)          | <a href="https://google.com">Detection Lab</a>|
-| Setting up a Active Directory Home Lab| <a href="https://google.com">Detection Lab</a>|
-| Setting up an Active Directory Home Lab for Security Monitoring| SOC Automation Lab|
-| Installing Security Onion on a VM      | SOC Automation Lab|
-| Installing Splunk                   | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Basic Java and C++ Programming           | <a href="https://google.com">Programming Projects</a>|
+| CTF and Attack the Machine| <a href="https://google.com">Detection Lab</a>|
+| SOC Analyst Labs| Detection Labs|
+| Networking Monitoring Tools (CCNA)       | Packet Tracer Projects|
+| Basic understanding of Bash and Linux                |Fundamentals of Bash and Linux|
 
 ## Tools
 
-### Network
+### Networking Tools 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### SIEM Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Programming Tools 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,6 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Capture The Flag and Attack Machines 
-- SOC Automation Project
-- Timi project
+- Capture The Flag and Attack Machines Labs (TryHackMe)
+- SOC Automation Projects
+- CCNA Labs
+- Programming Labs and Projects 
