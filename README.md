@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Setting up a Kali Linux Machine (UTM)          | <a href="https://google.com">Detection Lab</a>|
 | Setting up a Active Directory Home Lab| <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Setting up an Active Directory Home Lab for Security Monitoring| SOC Automation Lab|
+| Installing Security Onion on a VM      | SOC Automation Lab|
+| Installing Splunk                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
