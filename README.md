@@ -1,6 +1,11 @@
 ## 👋 Welcome to My GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+--
+
+
+I’m an aspiring Backend Engineer actively working on projects to enhance my skills in Java, SQL, and Spring Boot!
+
 
 Hi! I'm an aspiring Backend Engineer passionate about crafting scalable systems and solving complex problems.
 
@@ -46,6 +51,14 @@ tools:
   - Kubernetes
   - Jenkins
   - Wireshark
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
 
 
 🚀 Technical Skills
