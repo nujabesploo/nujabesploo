@@ -1,4 +1,9 @@
-# 💻 Welcome to My GitHub! 🌐
+# #👋 Welcome to My GitHub!
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
+
+Hi! I'm an aspiring Backend Engineer passionate about crafting scalable systems and solving complex problems.
+
 Hi there! I have experience as an Network Engineer, Backend Developer, and Software Developer with a strong foundation in IT operations, systems administration, and network troubleshooting. I am passionate about crafting robust software systems, optimizing network performance, and ensuring cybersecurity excellence.
 
 ## 📌 About Me
