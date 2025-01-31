@@ -13,7 +13,7 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 ---
 
 ## 🤝 Get in Touch
-</a> <a href="https://www.linkedin.com/in/tife-alli-66090b185/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> </div>
+</a> <a href="https://www.linkedin.com/in/tife-alli-66090b185/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="mailto:tifealli28@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> </div>
 
 ---
 
@@ -70,7 +70,7 @@ Monitoring Tools
 
 ## Certifications 
 🎓 Certifications
-<div> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Juniper_Networks_Certified-007DA9?&style=for-the-badge&logo=Juniper-Networks&logoColor=white" /> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-CCNP-FF5733?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
+<div> <a href="https://www.credly.com/badges/00f69835-ce23-4330-977c-c286941d8333/linked_in_profile"> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />  <a href="https://www.credly.com/badges/d69ec60f-34b2-4279-98a0-7901488d6a1f"> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> <img 
 
 ## Projects
 - Capture The Flag and Attack Machines Labs (TryHackMe)
