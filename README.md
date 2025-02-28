@@ -12,7 +12,7 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 
 ---
 
-## 🤝 Get in Touch
+## 🤝 Get in Touch (Click Here)
 </a> <a href="https://www.linkedin.com/in/tife-alli-66090b185/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="mailto:tifealli28@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> </div>
 
 ---
@@ -68,8 +68,7 @@ Database Tools
 Monitoring Tools
 <div> <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" /> </div>
 
-## Certifications 
-🎓 Certifications
+## 🎓 Certifications (Click Here)
 <div> <a href="https://www.credly.com/badges/00f69835-ce23-4330-977c-c286941d8333/linked_in_profile"> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />  <a href="https://www.credly.com/badges/d69ec60f-34b2-4279-98a0-7901488d6a1f"> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
 
 ## Projects
