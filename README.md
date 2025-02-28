@@ -29,31 +29,46 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 
 ---
 
-## 🔧 **Tech Stack**  
-languages:
-  - Python
-  - JavaScript (Node.js)
-  - SQL
-frameworks:
-  - Express.js
-  - Flask
-databases:
-  - PostgreSQL
-  - MySQL
-tools:
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - Wireshark
+## 💼 Tech Stack & Expertise  
+
+🚀 **Languages:** Java | Python | JavaScript | SQL  
+🛠 **Frameworks:** Spring Boot | Node.js | Express.js  
+💾 **Databases:** MySQL | PostgreSQL | MongoDB  
+☁️ **Cloud & DevOps:** AWS | Docker | Kubernetes  
+🔒 **Security & Networking:** Firewall Config | Penetration Testing  
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+### 🔹 **Enterprise-Level Backend API**  
+🔹 Built a scalable **Spring Boot REST API** with JWT authentication.  
+🔹 Integrated PostgreSQL with **high-performance indexing**.  
+🔹 Optimized response times by **30% using caching**.  
 
+### 🔹 **System Monitoring & Automation**  
+🔹 Developed a **Python-based network monitoring tool** for real-time alerts.  
+🔹 Automated **server log analysis** to detect security anomalies.  
+🔹 Reduced manual troubleshooting time by **40%**.  
 
+---
+
+## 🔥 Key GitHub Stats  
+
+📈 **Performance at a Glance**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox)  
+
+💪 **Commit Streak & Activity**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=highcontrast)  
+
+📊 **Top Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
+🛠 **Repositories & Contributions**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github)  
+
+---
+🌟 *Let's build, innovate, and grow together!* 🚀  
 
 🚀 Technical Skills
 Programming Languages
@@ -71,10 +86,8 @@ Monitoring Tools
 ## 🎓 Certifications (Click Here)
 <div> <a href="https://www.credly.com/badges/00f69835-ce23-4330-977c-c286941d8333/linked_in_profile"> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />  <a href="https://www.credly.com/badges/d69ec60f-34b2-4279-98a0-7901488d6a1f"> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
 
-## Projects
-- Capture The Flag and Attack Machines Labs (TryHackMe)
-- SOC Automation Projects
-- CCNA Labs
-- Programming Labs and Projects
+🔥 **"Building efficient, scalable, and secure systems – one commit at a time."**  
+
+---
 
 
