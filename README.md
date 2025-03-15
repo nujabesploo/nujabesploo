@@ -56,16 +56,16 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 ## 🔥 Key GitHub Stats  
 
 📈 **Performance at a Glance**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo&show_icons=true&theme=gruvbox)  
 
 💪 **Commit Streak & Activity**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=highcontrast)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nujabesploo&theme=highcontrast)  
 
 📊 **Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo&layout=compact&theme=tokyonight)  
 
 🛠 **Repositories & Contributions**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=github)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nujabesploo&theme=github)  
 
 ---
 🌟 *Let's build, innovate, and grow together!* 🚀  
