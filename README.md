@@ -58,8 +58,9 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 📈 **Performance at a Glance**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo&show_icons=true&theme=gruvbox)  
 
-💪 **Commit Streak & Activity**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nujabesploo&theme=highcontrast)  
+## 📈 GitHub Contribution Calendar
+
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/nujabesploo/nujabesploo/output/github-contribution-grid-snake-dark.svg)](https://github.com/nujabesploo)
 
 📊 **Top Languages Used**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo&layout=compact&theme=tokyonight)  
