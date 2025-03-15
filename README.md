@@ -60,7 +60,7 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 
 ## 📈 GitHub Contribution Calendar
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/nujabesploo/nujabesploo/output/github-contribution-grid-snake-dark.svg)](https://github.com/nujabesploo)
+![Snake animation](https://github.com/nujabesplop/nujabesplop/blob/output/github-contribution-grid-snake-dark.svg)
 
 📊 **Top Languages Used**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo&layout=compact&theme=tokyonight)  
