@@ -1,5 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Tife Alli</h1>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
+
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
 --
 
@@ -39,24 +45,8 @@ Hi there! I have experience as an Network Engineer, Backend Developer, and Softw
 
 ---
 
-## 📂 Featured Projects  
-
-### 🔹 **Enterprise-Level Backend API**  
-🔹 Built a scalable **Spring Boot REST API** with JWT authentication.  
-🔹 Integrated PostgreSQL with **high-performance indexing**.  
-🔹 Optimized response times by **30% using caching**.  
-
-### 🔹 **System Monitoring & Automation**  
-🔹 Developed a **Python-based network monitoring tool** for real-time alerts.  
-🔹 Automated **server log analysis** to detect security anomalies.  
-🔹 Reduced manual troubleshooting time by **40%**.  
-
----
-
 ## 🔥 Key GitHub Stats  
 
-📈 **Performance at a Glance**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo&show_icons=true&theme=gruvbox)  
 
 ## 📈 GitHub Contribution Calendar
 
