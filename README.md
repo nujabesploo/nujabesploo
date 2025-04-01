@@ -1,13 +1,14 @@
-<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Tife Alli</h1>
+<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Tife</h1>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
-
-</div>
+<div align="left">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
---
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
+---
+
+</div>
 
 Hi there! I have experience as an Network Engineer, Backend Developer, and Software Developer with a strong foundation in IT operations, systems administration, and network troubleshooting. I am passionate about crafting robust software systems, optimizing network performance, and ensuring cybersecurity excellence.
 
