@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub!
+<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Tife Alli</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
 --
