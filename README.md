@@ -10,7 +10,7 @@
 
 </div>
 
-Hi there! I have experience as an Network Engineer, Backend Developer, and Software Developer with a strong foundation in IT operations, systems administration, and network troubleshooting. I am passionate about crafting robust software systems, optimizing network performance, and ensuring cybersecurity excellence.
+Hi there! I have experience as a Network Engineer, Backend Developer, and Software Developer with a strong foundation in IT operations, systems administration, and network troubleshooting. I am passionate about crafting robust software systems, optimizing network performance, and ensuring cybersecurity excellence.
 
 ## 📌 About Me
 🌟 Specializations: Network topology design, backend system architecture, and secure software development.
