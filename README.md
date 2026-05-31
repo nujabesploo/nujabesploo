@@ -202,13 +202,9 @@ Tarrant County College
 
 ---
 
-# 📈 GitHub Analytics
+## Github Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nujabesploo\&theme=tokyonight)
+![Snake animation](https://github.com/nujabesploo/nujabesploo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -235,12 +231,6 @@ Tarrant County College
 💼 LinkedIn: [www.linkedin.com/in/tife-alli-66090b185](http://www.linkedin.com/in/tife-alli-66090b185)
 
 🐙 GitHub: github.com/nujabesploo
-
----
-
-## Github Statistics
-
-![Snake animation](https://github.com/nujabesploo/nujabesploo/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
