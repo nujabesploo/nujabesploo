@@ -1,81 +1,208 @@
-<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/joshua-omolewa/blob/98a6f340a42861c2d1d58301ae9bd4fa6271dff1/Img/Wave.gif" height="55px" width="55px">, I'm Tife</h1>
+# Hi, I'm Tife Alli 👋
 
-<div align="left">
+### Cloud & DevOps Engineer | AWS | Terraform | Kubernetes | Linux | CI/CD
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
----
-
-</div>
-
-Hi there! I have experience as a Network Engineer, Backend Developer, and Software Developer with a strong foundation in IT operations, systems administration, and network troubleshooting. I am passionate about crafting robust software systems, optimizing network performance, and ensuring cybersecurity excellence.
-
-## 📌 About Me
-🌟 Specializations: Network topology design, backend system architecture, and secure software development.
-📚 Currently enhancing my skills through Year Up to become a proficient Backend Engineer.
-🎯 My goal: To build scalable, secure, and high-performing systems while continuously exploring new technologies.
+<p align="center">
+Building scalable infrastructure, automating deployments, and mastering cloud technologies through real-world projects.
+</p>
 
 ---
 
-## 🤝 Get in Touch (Click Here)
-</a> <a href="https://www.linkedin.com/in/tife-alli-66090b185/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="mailto:tifealli28@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a> </div>
+## 🚀 About Me
+
+I'm an Infrastructure and DevOps-focused IT professional with hands-on experience supporting enterprise systems, cloud environments, data center operations, networking, and system administration.
+
+My career has given me exposure to:
+
+* Data Center Operations
+* Network Operations
+* Linux Administration
+* AWS Cloud Services
+* Infrastructure Automation
+* Systems Troubleshooting
+* Enterprise Support
+* Virtualization Technologies
+
+Currently, I'm focused on building production-style Cloud and DevOps projects that demonstrate Infrastructure as Code, Kubernetes, CI/CD, Monitoring, and Automation.
 
 ---
 
-## 🚀 **Technical Skills**  
+## 🎯 Current Focus
 
-| **Domain**               | **Key Skills**                                                                 |
-|--------------------------|------------------------------------------------------------------------------|
-| **Network Engineering**  | Network design, routing, switching, VLANs, firewalls, troubleshooting, SNMP  |
-| **Backend Development**  | Node.js, Python, REST APIs, databases (SQL/NoSQL), Docker, CI/CD pipelines    |
-| **Software Development** | Data structures, object-oriented programming, debugging, and testing         |
-| **Databases**            | SQL (PostgreSQL, MySQL), ER diagrams, normalization, query optimization       |
-| **Tools & Platforms**    | Git, AWS, Linux, Kubernetes, Jenkins, Wireshark                              |
+I'm actively building projects involving:
 
----
-
-## 💼 Tech Stack & Expertise  
-
-🚀 **Languages:** Java | Python | JavaScript | SQL  
-🛠 **Frameworks:** Spring Boot | Node.js | Express.js  
-💾 **Databases:** MySQL | PostgreSQL | MongoDB  
-☁️ **Cloud & DevOps:** AWS | Docker | Kubernetes  
-🔒 **Security & Networking:** Firewall Config | Penetration Testing  
+* ☁️ AWS Cloud
+* 🏗 Terraform Infrastructure as Code
+* ⚙️ Ansible Automation
+* ☸️ Kubernetes
+* 🐳 Docker
+* 🔄 GitHub Actions CI/CD
+* 🐧 Linux Administration
+* 📊 Prometheus & Grafana Monitoring
+* 🔐 Infrastructure Security
 
 ---
 
-## 🔥 Key GitHub Stats  
+## 💼 Professional Experience
 
+### 🏢 Data Center Technician
 
-## 📈 GitHub Contribution Calendar
+* Enterprise infrastructure support
+* Rack & stack operations
+* Hardware deployment and diagnostics
+* Linux & Windows server support
+* Infrastructure monitoring
+* High availability environments
 
-![Snake animation](https://github.com/nujabesploo/nujabesploo/blob/output/github-contribution-grid-snake.svg)
+### 🌐 Network Operations Technician
 
-📊 **Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo&layout=compact&theme=tokyonight)  
+* AWS cloud support
+* Routing & switching
+* VPN administration
+* Firewall support
+* Infrastructure troubleshooting
+* CI/CD support
+* Terraform & Ansible exposure
 
-🛠 **Repositories & Contributions**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nujabesploo&theme=github)  
+### 🖥 System Administrator
+
+* Active Directory
+* Windows Administration
+* Linux Administration
+* PowerShell Automation
+* ServiceNow
+* Enterprise Desktop Support
 
 ---
-🌟 *Let's build, innovate, and grow together!* 🚀  
 
-🚀 Technical Skills
-Programming Languages
-<div> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /> </div>
-Frameworks & Technologies
-<div> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/-REST_API-FF6F00?&style=for-the-badge&logo=rest-api&logoColor=white" /> <img src="https://img.shields.io/badge/-JDBC-FF6600?&style=for-the-badge&logo=Java&logoColor=white" /> </div>
-Networking Expertise
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
-🔧 Tools
-Database Tools
-<div> <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" /> </div>
-Monitoring Tools
-<div> <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" /> </div>
+## 🛠 Tech Stack
 
-## 🎓 Certifications (Click Here)
-<div> <a href="https://www.credly.com/badges/00f69835-ce23-4330-977c-c286941d8333/linked_in_profile"> <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />  <a href="https://www.credly.com/badges/d69ec60f-34b2-4279-98a0-7901488d6a1f"> <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
+### Cloud Platforms
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
+### Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform)
+
+### Configuration Management
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
+
+### CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+
+### Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows)
+
+---
+
+## 🏆 Certifications
+
+✅ AWS Certified Cloud Practitioner
+
+✅ Cisco Certified Network Associate (CCNA)
+
+✅ Microsoft Azure AI Fundamentals
+
+✅ Google IT Support Professional Certificate
+
+✅ Linux Essentials
+
+---
+
+## 🚀 Featured Projects
+
+### Terraform Infrastructure Lab
+
+Enterprise Infrastructure as Code project demonstrating:
+
+* Terraform Modules
+* Variables & Outputs
+* State Management
+* Infrastructure Provisioning
+* Best Practices
+
+### Kubernetes Monitoring Stack
+
+Production-style monitoring platform using:
+
+* Kubernetes
+* Prometheus
+* Grafana
+* Alerting
+* Metrics Collection
+
+### GitHub Actions CI/CD Pipeline
+
+Automated deployment workflow featuring:
+
+* Continuous Integration
+* Continuous Delivery
+* Docker Automation
+* Testing Pipelines
+
+### Ansible Infrastructure Automation
+
+Configuration management and server automation project featuring:
+
+* Playbooks
+* Inventories
+* Automation Workflows
+* Infrastructure Management
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nujabesploo\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nujabesploo\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nujabesploo\&theme=tokyonight)
+
+---
+
+## 🌎 Connect With Me
+
+📧 Email: [tifealli28@gmail.com](mailto:tifealli28@gmail.com)
+
+💼 LinkedIn:
+[www.linkedin.com/in/tife-alli-66090b185](http://www.linkedin.com/in/tife-alli-66090b185)
+
+🐙 GitHub:
+github.com/nujabesploo
+
+---
+
+## 📚 2026 Roadmap
+
+* AWS Solutions Architect Associate
+* Advanced Terraform Projects
+* Production Kubernetes Deployments
+* Platform Engineering Projects
+* Cloud Monitoring & Observability
+* Site Reliability Engineering (SRE)
+* Open Source Contributions
+
+---
+
+### ⚡ Motto
+
+"Automate everything. Learn continuously. Build infrastructure that scales."
